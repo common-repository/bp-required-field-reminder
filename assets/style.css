@@ -1,0 +1,33 @@
+#bp-required-field-av {
+    width: 100%;	
+    position: fixed;
+	top: 3%;
+	z-index: 99999;
+}
+#bp-required-field-av .bp-container-av{
+	width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    background: #c7c7c7;
+    padding: 20px;
+    
+}
+#bp-required-field-av .bp-fields-av {
+    width: 250px;
+    list-style-type: none;
+    margin: 0 auto;
+	padding: 10px 0px;
+}
+#bp-required-field-av .bp-fields-av li{
+	    text-align: left;
+    color: #ce0303;
+    padding-left: 15px;
+}
+#bp-required-field-av  .bp-message-av {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+#bp-required-field-av .point {
+    padding: 15px;
+}
